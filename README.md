@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ Robin Sacher
+ Robin Sacher
 
 ## Einleitung
 In dem Ferienjob den ich in der ersten Ferienwoche erledigt habe, arbeitete ich in einem Liftschacht der zurzeit renoviert wurde.
