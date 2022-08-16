@@ -15,10 +15,10 @@ In dieser Woche haben ich gelernt wie man in einem Liftschacht die Verankerungen
 
 ## Verifikation
 
-Dieses Bild zeigt, wie ich gelernt habe die Verankerungen in der Wand, für die Arbeitsplattform auf der ich stehe, richtig zu setzen
+Dieses Bild zeigt, wie ich gelernt habe die Verankerungen in der Wand, für die Arbeitsplattform auf der ich stehe, richtig zu setzen.
 
 # Reflektion zum Arbeitsprozess
-* Sehr gut war die Ausführung des Auftrag, da ich am Anfang alle Unklarheiten besprochen habe
+* Sehr gut war die Ausführung des Auftrag, da ich am Anfang alle Unklarheiten besprochen habe.
 
 * An diesem Tag war ich etwas müde und habe während des Anbringens der Verankerungen eine Pause gemacht weil ich am Morgen zu müde war obwohl es nur ein Auftrag von 30 Minuten war.
 
