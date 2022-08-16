@@ -9,9 +9,19 @@ In dem Ferienjob den ich in der ersten Ferienwoche erledigt habe, arbeitete ich 
 In dieser Woche haben ich gelernt wie man in einem Liftschacht die Verankerungen für die Arbeitsplattform korrekt montiert.
 
 ## Beschreibung
+
+1: Bohren des Loches
+2: Loch mit Kleber ausfühlen und Hülse hineinstecken
+3: Halterung für Tragebalken in Hülsestecke
+4: tragfähigkeit nochmals überprüfen
+
 ![image](https://user-images.githubusercontent.com/110891559/184815361-96827f85-836c-4ca3-afae-90a0515e3ea5.png)
 
 * Dieses Bild entstand im Liftschacht am Donnerstag, 7. Juli 2022 um 07:47
+
+https://www.youtube.com/watch?v=nb8dZMiSKj4
+
+* dieses Video beschreibt den ungefähren ablauf der Montage von den Hülsen.
 
 ## Verifikation
 
